@@ -1,2 +1,2 @@
-## curso-platzi-react-avanzado ⚛️
+## Aplicacion estilo instagram para mascotas ⚛️
 
